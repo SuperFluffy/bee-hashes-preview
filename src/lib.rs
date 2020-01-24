@@ -10,6 +10,7 @@
 use std::convert::TryFrom;
 use std::default::Default;
 
+pub mod kerl;
 mod utils;
 
 /// The length of a hash as returned by the hash functions implemented in this RFC (in
